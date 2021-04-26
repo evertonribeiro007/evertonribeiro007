@@ -1,0 +1,5 @@
+- 👋 Hello, I'm @ Everton Ribeiro 
+- 👀 I'm interested in programming
+- 🌱 I am currently learning Java, JavaScript, HTML and CSS
+- 📫 How to reach me: www.linkedin.com/in/evertonribeiro007
+- I study at Unisociesc University
