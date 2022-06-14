@@ -1,5 +1,4 @@
-- 👋 Hello, I'm @ Everton Ribeiro 
-- 👀 I'm interested in programming
-- 🌱 I am currently learning Java, JavaScript, HTML and CSS
-- 📫 How to reach me: www.linkedin.com/in/evertonribeiro007
+- 👋 Hello, I'm [@ Everton Ribeiro] (www.linkedin.com/in/evertonribeiro007)
+- 🌱 I am currently learning Java,MySQL, JavaScript, HTML and CSS
+- 📫 [Linkedin -evertonribeiro007] (www.linkedin.com/in/evertonribeiro007)
 - ❖ I study at Unisociesc University
