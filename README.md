@@ -1,4 +1,4 @@
 - 👋 Hello, I'm [@ Everton Ribeiro](www.linkedin.com/in/evertonribeiro007)
 - 🌱 I am currently learning Java,MySQL, JavaScript, HTML and CSS
-- 📫 [Linkedin -evertonribeiro007](www.linkedin.com/in/evertonribeiro007)
+- 📫 [Linkedin - evertonribeiro007](www.linkedin.com/in/evertonribeiro007)
 - ❖ I study at Unisociesc University
