@@ -35,7 +35,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/evertonribeiro007/evertonribeiro007/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
