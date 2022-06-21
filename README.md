@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Eu sou o Everton!</h2>
+<h2 align="left">Hi 👋! I'm Everton!</h2>
 I am Self taught web developer
 
 ###
